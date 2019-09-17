@@ -1,0 +1,21 @@
+/*
+Theme Name: OceanWP Child Theme
+Theme URI: https://wordpress.org/themes/oceanwp/
+Template: oceanwp
+Author: Helle Rørvang
+Author URI: http://helleroervang.dk/personalbranding/
+Description: Oceanwp Child Theme
+Version: 0.0.1.1568717977
+Updated: 2019-09-17 12:59:37
+
+*/
+
+.dropdown-menu .sub-menu {
+    background: white;
+    border-top:none;
+	border-radius: 10px;
+    min-width:180px;
+    -webkit-box-shadow:none;
+    -moz-box-shadow:none;
+    box-shadow:none;
+}
